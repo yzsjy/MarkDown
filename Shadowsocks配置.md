@@ -15,7 +15,7 @@ chmod +x shadowsocks–all.sh
 ## 运行一键脚本文件
 
 ```shell
-./shadowsocks–all.sh 2>&1 | tee shadowsocks–all.lo
+./shadowsocks–all.sh 2>&1 | tee shadowsocks–all.log
 ```
 
 
